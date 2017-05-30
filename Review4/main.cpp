@@ -6,6 +6,15 @@
 //  Copyright © 2017 Mauricio Matsubara. All rights reserved.
 //
 
+/*
+ 
+ 1. Create ann integer variable and multiply it by 2
+ 
+ 1. Multiply it by 2 until it the final result is higher than 100000
+ 
+ 
+ */
+
 #include <iostream>
 
 int main(int argc, const char * argv[]) {
